@@ -4,7 +4,7 @@ Elo Ratings of Texas High School Basketball Teams
 # Data
 The data used in this model was from the high school sports scores database used by the Houston Chronicle and the San Antonio Express News (http://houston-tpweb.newsengin.com/). The data is limited in that it only contains data for San Antonio and Houston schools, with Dallas/other schools only appearing when an San Antonio/Houston team plays against them in a Tournament. So, these ELO Ratings are only applicable to the San Antonio and Houston Area High Schools.
 
-# ELO Methodology
+# ELO Based Methodology
 
 ### All schools start with an ELO Rating of 1500. 
 ### Based on the result of each game, this rating is adjusted
