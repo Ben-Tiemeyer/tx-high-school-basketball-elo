@@ -23,7 +23,7 @@ Home Team ELO: <b>1600</b>       |       Away Team ELO: <b>1486</b><br><br>
  <b>Actual Game Score Ratio</b>: 56 / 99 = .418<br>
  <b>Elo Change</b>: 100*(.418-.522) - 10 = <b><i>-20.4</i></b><br><br>
  Home Team New ELO: <b>1579.6</b>       |       Away Team New ELO: <b>1506.4</b><br><br>
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -<br>
+- - - - - - - - - - - - <br>
 
 ### Based on the difference between the two team's ELO Rating, an expected win percentage is calculated
 
@@ -38,14 +38,14 @@ Home Team ELO: <b>1600</b>       |       Away Team ELO: <b>1486</b><br>
 Home Team ELO: <b>1449</b>       |       Away Team ELO: <b>1528</b><br>
  <b>ELO Difference</b>: 1449 + 25 - 1528 = <b>-54</b><br>
  <b>Home Team Expected Win Percentage</b>: 1 / (10 ^ ((-1 * <b>-54</b>) / 400) + 1) = .42 -> <b>42%</b><br><br>
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -<br>
+- - - - - - - - - - - - <br>
  
 ### This Expected Win Percentage can be used to calculate an expected game spread
 
 <b>Game Spread</b> = 261.14 * (Expected Win Percentage) ^ 3 - 509.52 * (Expected Win Percentage) ^ 2 + 354.66 * (Expected Win Percentage) - 82.5925<br>
 69% Expected Win Percentage -> <b>-5.3 Point Spread</b><br>
 58% Expected Win Percentage -> <b>-2.6 Point Spread</b><br>
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -<br>
+- - - - - - - - - - - - <br>
 
 ### This Expected Win Percentage is then used to calculate an accuracy score for each prediction to measure the accuracy of the model
 
