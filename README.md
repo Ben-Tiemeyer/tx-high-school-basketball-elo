@@ -68,7 +68,7 @@ Home Team ELO: <b>1600</b>       |       Away Team ELO: <b>1486</b><br><br>
  <b>Home Team Expected Win Percentage</b>: 1 / (10 ^ ((-1 * <b>139</b>) / 400) + 1) = .69 -> <b>69%</b><br><br>
  <b>Accuracy Score</b>(Prediction was incorrect):  -1 * ((.69 - .5) * 400 - 30.8) = <b>-45.2</b><br><br>
  
-<b>This accuracy score is what is used to tune the model by changing the following model parameters:</b><br>
+<b>This accuracy score is what was used to tune the model by changing the following model parameters:</b><br>
 <i>Reset Rate</i>: The percentage of a school's ELO Rating away from 1500 that is kept after each season<br>
 <i>Home Field Advantage</i>: The size of the ELO Bonus that is given to the home team<br>
 <i>Win Bonus(Learning Rate)</i>: The ELO Bonus that is given for winning/losing the game<br>
