@@ -85,7 +85,8 @@ These optimal parameters resulted in an average accuracy score of 10.49 per game
 
 # ELO Results
 
-Filtering down to only San Antonio area schools, an average ELO Rating was calculated for each school over the past 10 seasons (2009-2010 to 2018-2019) to determine the top 10 San Antonio Basketball Programs in each UIL Classification over the last 10 years.
+Filtering down to only San Antonio area schools, an average ELO Rating was calculated for each school over the past 10 seasons (2009-2010 to 2018-2019) to determine the top 10 *San Antonio Basketball Programs in each UIL Classification over the last 10 years.<br><br>
+*any teams in the same division as a San Antonio area team are also included<br><br>
 
 <b>6A</b><br>
 1	San Antonio Brennan	1832.4<br>
