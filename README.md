@@ -88,13 +88,59 @@ These optimal parameters resulted in an average accuracy score of 10.49 per game
 Filtering down to only San Antonio area schools, an average ELO Rating was calculated for each school over the past 10 seasons (2009-2010 to 2018-2019) to determine the top 10 San Antonio Basketball Programs in each UIL Classification over the last 10 years.
 
 <b>6A</b><br>
-1	San Antonio Brennan	         1832.441237<br>
-2	Converse Judson	             1804.259781<br>
-3	San Antonio Churchill	       1757.226036<br>
-4	San Antonio Antonian	        1742.652860<br>
-5	San Antonio Central Catholic	1713.553019<br>
-6	San Antonio Brandeis	        1693.334070<br>
-7	San Antonio Reagan	          1671.252305<br>
-8	Schertz Clemens	             1664.989640<br>
-9	San Antonio East Central	    1651.716321<br>
-10	Cibolo Steele	              1633.371120<br>
+1	San Antonio Brennan	1832.4<br>
+2	Converse Judson	1804.3<br>
+3	San Antonio Churchill	1757.2<br>
+4	San Antonio Antonian	1742.6<br>
+5	San Antonio Central Catholic	1713.5<br>
+6	San Antonio Brandeis	1693.3<br>
+7	San Antonio Reagan	1671.2<br>
+8	Schertz Clemens	1664.9<br>
+9	San Antonio East Central	1651.7<br>
+10	Cibolo Steele	1633.4<br>
+
+<b>5A</b><br>
+1	San Antonio Alamo Heights	1773.7<br>
+2	San Antonio Wagner	1723.1<br>
+3	San Antonio Sam Houston	1679.2<br>
+4	San Antonio Lanier	1642.9<br>
+5	Kerrville Tivy	1641.6<br>
+6	Boerne Champion	1615.8<br>
+7	Victoria East	1580.3<br>
+8	Somerset	1563.8<br>
+9	San Antonio Harlandale	1537.4<br>
+10	San Antonio Brackenridge	1534.7<br>
+
+<b>4A</b><br>
+1	Boerne	1810.3<br>
+2	Hondo	1647.2<br>
+3	La Vernia	1603.1<br>
+4	Brookshire Royal	1559.4<br>
+5	Wimberley	1558.2<br>
+6	Devine	1557.3<br>
+7	Pleasanton	1500.9<br>
+8	Crystal City	1486.8<br>
+9	Round Rock Concordia	1468.8<br>
+10	Beeville Jones	1459.9<br>
+
+<b>3A</b><br>
+1	San Antonio Cole	1791.2<br>
+2	Universal City Randolph	1748.9<br>
+3	Blanco	1553.5<br>
+4	San Antonio Gervin Academy	1537.5<br>
+5	Stockdale	1494.1<br>
+6	Comfort	1468.5<br>
+7	Dilley	1440.2<br>
+8	Natalia	1323.2<br>
+9	Lytle	1320.3<br>
+
+<b>Other</b><br>
+1	Sabinal	1715.6<br>
+2	San Antonio Milton Lee Academy	1715.1<br>
+3	Harper	1688.2<br>
+4	San Antonio FEAST	1585.7<br>
+5	San Antonio St. Anthony	1569.1<br>
+6	San Antonio Stacey	1559.3<br>
+7	San Antonio Cornerstone	1477.8<br>
+8	Knippa	1477.1<br>
+9	Utopia	1379.6<br>
