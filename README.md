@@ -88,15 +88,7 @@ These optimal parameters resulted in an average accuracy score of 10.49 per game
 Filtering down to only San Antonio area schools, an average ELO Rating was calculated for each school over the past 10 seasons (2009-2010 to 2018-2019) to determine the top 10 San Antonio Basketball Programs in each UIL Classification over the last 10 years.
 
 <b>6A</b><br>
-| Rank | School                       | 10-Year Avg ELO |<br>
-|------|------------------------------|-----------------|<br>
-| 1    | San Antonio Brennan          | 1832.441237     |<br>
-| 2    | Converse Judson              | 1804.259781     |<br>
-| 3    | San Antonio Churchill        | 1757.226036     |<br>
-| 4    | San Antonio Antonian         | 1742.652860     |<br>
-| 5    | San Antonio Central Catholic | 1713.553019     |<br>
-| 6    | San Antonio Brandeis         | 1693.334070     |<br>
-| 7    | San Antonio Reagan           | 1671.252305     |<br>
-| 8    | Schertz Clemens              | 1664.989640     |<br>
-| 9    | San Antonio East Central     | 1651.716321     |<br>
-| 10   | Cibolo Steele                | 1633.371120     |<br>
+| Column 1       | Column 2     | Column 3     |
+| :------------- | :----------: | -----------: |
+|  Cell Contents | More Stuff   | And Again    |
+| You Can Also   | Put Pipes In | Like this \| |
