@@ -88,7 +88,7 @@ These optimal parameters resulted in an average accuracy score of 10.49 per game
 Filtering down to only San Antonio area schools, an average ELO Rating was calculated for each school over the past 10 seasons (2009-2010 to 2018-2019) to determine the top 10 San Antonio Basketball Programs in each UIL Classification over the last 10 years.
 
 <b>6A</b><br>
-| Column 1       | Column 2     | Column 3     |
-| :------------- | :----------: | -----------: |
-|  Cell Contents | More Stuff   | And Again    |
-| You Can Also   | Put Pipes In | Like this \| |
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
