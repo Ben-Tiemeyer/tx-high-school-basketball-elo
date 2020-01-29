@@ -1,6 +1,9 @@
 # tx-high-school-basketball-elo
 Elo Ratings of Texas High School Basketball Teams
 
+# Data
+The data used in this model was from the high school sports scores database used by the Houston Chronicle and the San Antonio Express News (http://houston-tpweb.newsengin.com/). The data is limited in that it only contains data for San Antonio and Houston schools, with Dallas/other schools only appearing when an San Antonio/Houston team plays against them in a Tournament. So, these ELO Ratings are only applicable to the San Antonio and Houston Area High Schools.
+
 # ELO Methodology
 
 ### All schools start with an ELO Rating of 1500. 
@@ -78,4 +81,8 @@ Home Team ELO: <b>1600</b>       |       Away Team ELO: <b>1486</b><br><br>
 <i>Home Field Advantage</i>: 25<br>
 <i>Win Bonus(Learning Rate)</i>: 10<br><br>
 
-These parameters resulted in an average accuracy score of 10.49 per game
+These optimal parameters resulted in an average accuracy score of 10.49 per game
+
+# ELO Results
+
+Filtering down to only San Antonio area schools, an average ELO Rating was calculated for each school over the past 10 seasons (2009-2010 to 2018-2019) to determine the top 10 San Antonio Basketball Programs in each UIL Classification over the last 10 years.
