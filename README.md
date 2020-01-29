@@ -73,9 +73,9 @@ Home Team ELO: <b>1600</b>       |       Away Team ELO: <b>1486</b><br><br>
 <i>Home Field Advantage</i>: The size of the ELO Bonus that is given to the home team<br>
 <i>Win Bonus(Learning Rate)</i>: The ELO Bonus that is given for winning/losing the game<br>
 
-<b>Optimal Paramters for this data set was found to be:</b>
+<b>Optimal Paramters for this data set were found to be:</b><br>
 <i>Reset Rate</i>: 0.4<br>
 <i>Home Field Advantage</i>: 25<br>
-<i>Win Bonus(Learning Rate)</i>: 10<br>
+<i>Win Bonus(Learning Rate)</i>: 10<br><br>
 
-These parameters resulting in an average accuracy score of 10.49 per game
+These parameters resulted in an average accuracy score of 10.49 per game
